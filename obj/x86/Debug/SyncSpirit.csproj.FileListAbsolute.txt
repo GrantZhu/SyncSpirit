@@ -1,0 +1,11 @@
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\DiskFileSync.exe
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\DiskFileSync.pdb
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\bin\Debug\DiskFileSync.exe
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\bin\Debug\DiskFileSync.pdb
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\SyncSpirit.View.MainForm.resources
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\DiskFileSync.Properties.Resources.resources
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\SyncSpirit\obj\x86\Debug\DiskFileSync.exe
+C:\Users\Grant\Projects\VisualStudio\DiskFileSync\SyncSpirit\obj\x86\Debug\DiskFileSync.pdb

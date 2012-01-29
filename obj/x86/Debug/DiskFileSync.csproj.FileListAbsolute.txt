@@ -1,0 +1,9 @@
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\bin\Debug\DiskFileSync.exe
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\bin\Debug\DiskFileSync.pdb
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\DiskFileSync.Properties.Resources.resources
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\DiskFileSync.exe
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\DiskFileSync.pdb
+c:\users\grant\Projects\VisualStudio\DiskFileSync\DiskFileSync\obj\x86\Debug\DiskFileSync.MainForm.resources
